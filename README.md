@@ -9,11 +9,9 @@ curated for this task. It demonstrates a complete workflow from raw data to a tr
 
 3) Regression modeling using Random Forest Regressor
 
-4) Hyperparameter tuning with GridSearchCV
+4) Performance evaluation using RMSE and R² Score
 
-5) Performance evaluation using RMSE and R² Score
-
-6) Model saved using joblib for reuse
+5) Model saved using joblib for reuse
 
 --- Tech Stack ---
 
